@@ -1,6 +1,6 @@
 
 // Array of objects of all questions
-var questions = [{
+document.questions = [{
     // Question 1
    question: "What is the correct way to declare a variable in JavaScript?",
    // Possible Answer
@@ -30,4 +30,5 @@ correctAnswer: 3,
 }, 
 
 ]
+
 
