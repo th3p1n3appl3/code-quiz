@@ -8,6 +8,7 @@ function startQuiz (timer) {
     
     // Add event listener to start button and change start screen
     startButton.addEventListener("click", function () {
+        questionCount = 0;
         startScreen.children[0].textContent = '';
         startScreen.children[1].textContent = 
     });
