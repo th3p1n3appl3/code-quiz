@@ -9,7 +9,7 @@ document.questions = [{
    "int myVariable",
   "const myVariable"],
    // Correct Answer
-    correctAnswer: 3,
+    correctAnswer: "const myVariable",
   
 }, 
     // Question 2
@@ -18,7 +18,7 @@ answers: ["jQuery",
 "Python",
 "Ruby on Rails",
 "React"],
-correctAnswer: 3,
+correctAnswer: "React",
 }, 
     // Question 3
 {question: "What does DOM stand for in the context of web development?",
@@ -26,7 +26,7 @@ answers: ["Domucent Object Model",
 "Display On Monitor",
 "Data Object Management",
 "Document Object Model"],
-correctAnswer: 3,
+correctAnswer: "Document Object Model",
 }, 
 
 ]
