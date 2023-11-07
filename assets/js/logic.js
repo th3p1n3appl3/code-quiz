@@ -44,11 +44,8 @@ function startQuiz () {
             let currentButton = document.getElementById("answer-" + answerIndex);
 
             currentButton.textContent = currentAnswer;
-        }
-    
-        
-    });
-
+            }
+    }   );
 }
 
 function clockTick() {
